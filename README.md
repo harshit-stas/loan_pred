@@ -1,15 +1,9 @@
-**Data Analysis and Machine Learning Project**
+**Data Analysis and Machine Learning Project:**
 This repository contains a data analysis and machine learning project that focuses on predicting loan approval status based on various factors. The project involves loading and analyzing the dataset, preprocessing the data, performing feature engineering, training machine learning models, and making predictions. The README.md file provides an overview of the project and its components.
 
-**Table of Contents
-Project Overview
-Data Analysis
-Machine Learning
-License**
-
-**Project Overview**
+**Project Overview:**
 Provide a brief description of the project and its objective. Explain what problem the project aims to solve and how the machine learning models are used for loan approval prediction.
-**Data Analysis**
+**Data Analysis:**
    Data loading:
 The project uses two datasets: train.csv and test.csv.
 The datasets are loaded using the pandas library.
@@ -28,10 +22,10 @@ train.boxplot(column='ApplicantIncome', by='Education') creates a boxplot of 'Ap
 train['LoanAmount'].hist() generates a histogram of 'LoanAmount'.
 Loan_amount_N.hist() displays a histogram of the transformed 'LoanAmount' after applying logarithmic transformation.
 
-**Machine Learning**
+**Machine Learning:**
 machine learning part of the project, including preprocessing, model training, and prediction:
 
-  **Data preprocessing**:
+  **Data preprocessing:**:
 Missing values are handled using various strategies, such as mode and mean imputation.
 Categorical variables are encoded using LabelEncoder.
 Numeric features are scaled using StandardScaler.
