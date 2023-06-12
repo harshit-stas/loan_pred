@@ -39,8 +39,7 @@ Alternative model:
 GaussianNB is used as an alternative machine learning model.
 The model is trained using NBclassfier.fit(x_train, y_train).
 The accuracy of the model is evaluated using metrics.accuracy_score(y_pred, y_test).
-Contributing
-Specify guidelines or instructions for others who wish to contribute to the project. Include information on bug reporting, feature requests, and submitting pull requests.
+
 
 **License**:
 dataset was taken from kaggle.com
