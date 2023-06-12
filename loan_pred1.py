@@ -1,6 +1,6 @@
 import pandas as pd
-test=pd.read_csv(r"C:\Users\harshit Raman\Downloads\test_lAUu6dG.csv")
-train=pd.read_csv(r"C:\Users\harshit Raman\Downloads\train.csv")
+test=pd.read_csv(r"test.csv")
+train=pd.read_csv(r"train.csv")
 import numpy as np
 import matplotlib as plt
 a=train.info()
