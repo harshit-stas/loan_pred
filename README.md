@@ -3,6 +3,8 @@ This repository contains a data analysis and machine learning project that focus
 
 **Project Overview:**
 Provide a brief description of the project and its objective. Explain what problem the project aims to solve and how the machine learning models are used for loan approval prediction.
+**Exploratory analysis**
+exploratory analysis of test dataset is done after filling in missing values and converting data into more suitable  form for the analysis using label encoder.After gettting data in desired format , we use the chart to explore data to better understand the data.Chart used in data are -histigram,pairplot,correlation matrix
 **Data Analysis:**
    Data loading:
 The project uses two datasets: train.csv and test.csv.
