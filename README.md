@@ -1,6 +1,5 @@
 **Data Analysis and Machine Learning Project:**
 This repository contains a data analysis and machine learning project that focuses on predicting loan approval status based on various factors. The project involves loading and analyzing the dataset, preprocessing the data, performing feature engineering, training machine learning models, and making predictions. The README.md file provides an overview of the project and its components.
-
 **Project Overview:**
 Provide a brief description of the project and its objective. Explain what problem the project aims to solve and how the machine learning models are used for loan approval prediction.
 **Exploratory analysis**
