@@ -47,3 +47,6 @@ The accuracy of the model is evaluated using metrics.accuracy_score(y_pred, y_te
 
 **License**:
 dataset was taken from kaggle.com
+
+**note:**
+for the visulaizaton help do see the pinned issues
